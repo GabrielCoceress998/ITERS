@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    background-color: white;
+}
+.content2{
+    display: grid;
+    padding:22px;
+    grid-template-columns:1fr 1fr ;
+    box-sizing: border-box;
+
+}
+.data{
+	display: grid ;
+	grid-template-columns: 1fr 1fr;
+	margin-left: 30px;
+	box-sizing: border-box;
+
+
+}
+.c1 p.c2 p.c3 p.c4 p.c5 p.c6 p{
+	font-family: 'Poppins';
+    color: black;
+    font-size: 18px;
+}
+.c2 , .c4{
+	margin-left: 12px;
+}
+.c1 h3.c2 h3.c3 h3.c4 h3.c5 h3.c6 h3{
+	font-family: 'Poppins';
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+.c3 img{
+	height: 438px;
+	width: 776px;
+}
